@@ -1,0 +1,4 @@
+python libraries:
+    face_recognition
+    pillow
+    opencv
